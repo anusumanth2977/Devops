@@ -1,1 +1,4 @@
-Get started with Devops
+what is devops?
+why we use devops?
+what are stages in devops?
+what are the tools we use in devops?
